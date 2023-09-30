@@ -1,0 +1,16 @@
+.carousel-bootstrap-1 {
+    background-image: url('../images/carousel-1.svg');
+}
+.carousel-bootstrap-2 {
+    background-image: url('../images/carousel-2.svg');
+}
+.carousel-bootstrap-3 {
+    background-image: url('../images/carousel-3.svg');
+}
+.carousel-images{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
